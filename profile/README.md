@@ -1,4 +1,4 @@
-## RS-DAT: Research Stack - Distributable Analysis Environment
+## RS-DAT: Research Stack - Distributed Analysis Environment
 
 RS-DAT provides researchers faced with storage and compute demands
 surpassing what local workstations can provide with a framework to seamlessly scale their Python based workflows to high-performance compute systems. Earth Observations sciences, in particular, are supported but also researchers in any domain
